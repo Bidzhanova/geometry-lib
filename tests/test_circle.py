@@ -1,6 +1,6 @@
 import pytest
 from math import pi
-from geometry import Circle
+from geometry_lib import Circle
 
 
 class TestCircle:

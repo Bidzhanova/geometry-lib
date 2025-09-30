@@ -6,7 +6,7 @@
 ```bash
 # Клонируйте репозиторий или скачайте исходный код
 git clone https://github.com/Bidzhanova/geometry-lib.git
-cd geometry_lib
+cd geometry-lib
 
 # Установите библиотеку
 pip install .

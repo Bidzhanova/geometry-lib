@@ -1,6 +1,6 @@
 import pytest
 from math import pi
-from geometry import AreaCalculator, Circle, Triangle
+from geometry_lib import AreaCalculator, Circle, Triangle
 
 
 class TestAreaCalculator:

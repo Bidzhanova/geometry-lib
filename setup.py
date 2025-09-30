@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="geometry-lib",
+    name="geometry_lib",
     version="1.0.0",
     author="Olga Bidzhanova",
     author_email="olia989@yandex.ru",

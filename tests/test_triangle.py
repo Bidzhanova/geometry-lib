@@ -1,5 +1,5 @@
 import pytest
-from geometry import Triangle
+from geometry_lib import Triangle
 
 
 class TestTriangle:

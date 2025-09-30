@@ -1,5 +1,5 @@
 import pytest
-from geometry import ShapeFactory, Circle, Triangle
+from geometry_lib import ShapeFactory, Circle, Triangle
 
 
 class TestShapeFactory:
