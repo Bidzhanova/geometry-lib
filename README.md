@@ -5,7 +5,7 @@
 ## 📦 Установка
 ```bash
 # Клонируйте репозиторий или скачайте исходный код
-git clone <your-repository>
+git clone https://github.com/Bidzhanova/geometry-lib.git
 cd geometry_lib
 
 # Установите библиотеку
